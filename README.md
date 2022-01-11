@@ -3,7 +3,7 @@
 2. V: pali se lampa(SpotLigh)
 3. K: SSAO
 
-grupa A: Cubeamaps
+grupa A: Cubemaps
 grupa B: SSAO
 
 https://youtu.be/lvlPBqG9oPg
